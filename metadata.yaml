@@ -1,0 +1,30 @@
+_repo: Four-Years-in-Franceof-the-Author-to-the-Catholic-Faith_37344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beste, Henry Digby
+    alias: Best, Henry
+    birthdate: 1768
+    deathdate: 1836
+    gutenberg_agent_id: '38781'
+    url: http://www.gutenberg.org/2009/agents/38781
+description: ''
+gutenberg_issued: '2011-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37344'
+  lccn: 03031192
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+title: "Four Years in France\r\nor, Narrative of an English Family's Residence there\
+  \ during that Period; Preceded by some Account of the Conversion of the Author to\
+  \ the Catholic Faith"
+url: http://www.gutenberg.org/ebooks/37344
